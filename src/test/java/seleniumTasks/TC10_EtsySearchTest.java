@@ -42,7 +42,7 @@ public class TC10_EtsySearchTest {
             System.out.println("Verification is not completed header mismatched. Verification result is:FAILED ");
             System.out.println("Actual header text is: "+actHeader);
         }
-        driver.quit();
+        //driver.quit();
 
     }
 }
